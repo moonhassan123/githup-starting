@@ -1,0 +1,37 @@
+.main-div{
+    border: 2px solid chartreuse;
+    border-radius: 40px;
+    margin: 100px 50px 20px ;
+    text-align: center;
+}
+#upload-aria{
+    border-radius: 50px;
+    border: 2px solid yellow;
+    padding: 10px;
+    margin: 10px auto;
+    width: 200px;
+} 
+#how-div{
+    text-align: center;
+}
+#try-div{
+    text-align: center;
+}
+#imgdisplay{
+   text-align: center; 
+}
+/* .same{
+margin-right: 600px;
+}
+.work{
+    height: auto;
+    display: block;
+    max-width: 100%;
+ 
+  } */
+  #use{
+    text-align: center;
+  }
+  #what{
+    text-align: center;
+  }
